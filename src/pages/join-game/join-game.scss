@@ -1,1 +1,8 @@
 @import '../../_variables.scss';
+
+.join-game {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
